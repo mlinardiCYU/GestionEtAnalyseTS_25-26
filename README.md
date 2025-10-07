@@ -18,3 +18,5 @@ Intervenant : Michele LINARDI (michele.linardi@orange.fr)
                       Deadline pour la soumission : elle sera communiquée la 2ᵉ semaine d'octobre
 
 **Mardi 07/10/2025** ---->  Ressources pédagogiques dans le dossier : CM_3 (Nous avons terminé la partie concernant les réseaux d.n. recurrents )
+                            Deadline pour soumettre le TD 2 (ARIMA + statsmodels PYTHON) : 08/10/2025 (18h - par mail michele.linardi@orange.fr)
+                            Deadline pour soumettre le TD 3 (Réseau CNN + KERAS PYTHON) :  14/10/2025 (18h - par mail michele.linardi@orange.fr)
