@@ -23,7 +23,7 @@ Intervenant : Michele LINARDI (michele.linardi@orange.fr)
                             **Deadline pour soumettre le TD 3** (Réseau CNN + KERAS PYTHON) :  14/10/2025 (18h - par mail michele.linardi@orange.fr)
 
 **Mercredi 15/10/2025** ---->  Nous avons démarré ensemble le TD 4 (RNN + Attention based Transformer)
-                              Suite à la notification d'une erreur (merci aux étudiants du parcours RSA!) j'ai mis à jour le notebook du TD4 
+                              Suite à la notification d'une erreur dans la préparation des jeux de validation et test (pour le forecasting multi-horizon) (merci aux étudiants du parcours RSA!) j'ai mis à jour le notebook du TD4 
                           
                            **Deadline pour soumettre le TD 4**  :  03/11/2025 (18h - par mail michele.linardi@orange.fr)
                            
