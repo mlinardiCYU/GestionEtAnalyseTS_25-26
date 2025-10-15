@@ -21,3 +21,15 @@ Intervenant : Michele LINARDI (michele.linardi@orange.fr)
 
                             **Deadline pour soumettre le TD 2** (ARIMA + statsmodels PYTHON) : 08/10/2025 (18h - par mail michele.linardi@orange.fr) 
                             **Deadline pour soumettre le TD 3** (Réseau CNN + KERAS PYTHON) :  14/10/2025 (18h - par mail michele.linardi@orange.fr)
+
+
+
+Pour Optimiser les Hyperparamètres dans Keras : https://www.kaggle.com/code/mistag/keras-model-tuning-with-optuna
+
+Vous pouvez trouver des jeux des données (sériés temporelles) ici :\
+https://github.com/Mcompetitions/M4-methods.git \
+https://forecastingdata.org/ 
+       
+
+
+
